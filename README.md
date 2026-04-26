@@ -46,6 +46,25 @@ Through this project, I learned how to:
 - Allow dynamic file selection  
 
 ---
+## Reflection
+
+### Summarize the project and what problem it was solving.
+This project is a C++ grocery tracking program that reads grocery item data from an input file and counts how many times each item appears. The program solves the problem of manually tracking item frequency by organizing the data and displaying it through search results, a full frequency list, and a histogram.
+
+### What did you do particularly well?
+I think I did particularly well organizing the program into a class and separate functions. This made the code easier to read and helped keep each part of the program focused on one task, such as loading the file, searching for an item, or printing the histogram.
+
+### Where could you enhance your code?
+I could enhance my code by making the search feature case-insensitive and adding more input validation. These improvements would make the program more user-friendly and help prevent errors if the user types an item name differently than it appears in the file.
+
+### Which pieces of code were most challenging, and how did you overcome this?
+The most challenging part was working with file input and storing the item counts in a map. I overcame this by breaking the program into smaller steps, testing each menu option, and reviewing examples of file handling and maps in C++.
+
+### What skills from this project will be transferable?
+The most transferable skills from this project are file handling, using data structures like maps, writing functions, and organizing code with classes. These skills can be used in many future programming projects that involve reading data, storing information, and displaying results.
+
+### How did you make this program maintainable, readable, and adaptable?
+I made the program maintainable by separating the logic into functions and using clear function names. I also used comments to explain important parts of the code. This makes it easier to update the program later, such as adding better search options or improving the menu.
 
 ## 👤 Author  
 Kayleen Blood  
